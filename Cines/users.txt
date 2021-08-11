@@ -1,0 +1,3 @@
+Reserva Creada para usuario con Nombre: Juan, ID: 1708004054, Asiento: 5, Funcion: Suicide Squad, En la fecha: Tue Aug 10 19:27:05 COT 2021 
+Reserva Creada para usuario con Nombre: Juana, ID: 1765985485, Asiento: 8, Funcion: Los Vengadores, En la fecha: Tue Aug 10 19:27:05 COT 2021 
+Reserva Creada para usuario con Nombre: Rosa, ID: 1548456587, Asiento: 10, Funcion: Black Widow, En la fecha: Tue Aug 10 19:28:13 COT 2021 
